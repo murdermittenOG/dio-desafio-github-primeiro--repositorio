@@ -1,0 +1,33 @@
+Link para download do Git: https://git-scm.com/
+Link GitHub: https://github.com/
+
+GitBash: console/terminal extendido para otimizar o uso do Git
+
+mudar de pasta: cd
+
+listar pastas: dir / ls
+mostra pasta ocultas: ls -a
+
+criar pastas/arquivos: mkdir
+
+deletar pastas/arquivos: del / rmdir
+
+echo: printa o digitado e repete
+
+iniciar git: git init
+
+iniciar o versionamento: git add
+git add nomeArquivo
+git add *
+git add .
+
+criar um commit: git commit
+git commit -m
+
+verificar status : git status
+
+joga do git pro github: git push origin master
+git pull origin master
+
+copiar um código git: git clone urlcode
+
